@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Enhanced Documentation Workflow**
   - Versioned documentation deployment with mike integration
   - Main branch docs automatically deployed to `/latest` path
-  - Automated versioned docs on git tag releases (v1.0.0, v1.1.0, etc.)
+  - Automated versioned docs on git tag releases (v1.0.0-beta, v1.1.0, etc.)
   - Comprehensive versioned-docs-release.md guide with deployment instructions
   - Support for manual and automated documentation releases
 
@@ -36,7 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated dependency constraints for better compatibility
 - Improved error handling for edge cases in compliance detection
 
-### Features (v1.0.0 Release)
+### Features (v1.0.0-beta Release)
 - **Full Compliance Middleware**
   - PII Detection: Comprehensive detection of personally identifiable information including emails, phone numbers, SSNs, addresses, and names
   - PHI Detection: Healthcare information protection compliant with HIPAA regulations
