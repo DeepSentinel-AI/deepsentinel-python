@@ -5,7 +5,7 @@ providers, with comprehensive compliance checks, audit logging, and performance
 optimizations for AI safety and compliance.
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.0-beta"
 
 from .api.audit import AuditAPI
 from .api.client import DeepSentinelAPIClient
